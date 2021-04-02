@@ -19,7 +19,7 @@ a {
 color: bisque;
 }
 .btn{
-background-color: cadetblue;
+background-color: rgb(0, 0, 0);
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -48,6 +48,9 @@ background-color: cadetblue;
   height: 32rem;
 }
 
+.carousel-caption h1 {
+  color: rgb(112, 105, 249);
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
